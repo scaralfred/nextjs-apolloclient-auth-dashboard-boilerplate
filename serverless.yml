@@ -1,0 +1,6 @@
+nextjs-apolloclient-auth-boilerplate:
+  component: serverless-next.js
+  inputs:
+    # bucketName: nextjs-apolloclient-auth-boilerplate
+    # policy: "arn:aws:iam::882307853342:policy/S3_full_acess"
+    # accelerated: false 
